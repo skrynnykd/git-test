@@ -1,3 +1,3 @@
 # My first test 
 
-Help me please 
+Learning Git and Github
