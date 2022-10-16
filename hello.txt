@@ -1,2 +1,5 @@
 Hello World!
+<<<<<<< HEAD
 Goodbye !!!
+=======
+>>>>>>> master
